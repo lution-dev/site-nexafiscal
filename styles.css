@@ -176,7 +176,7 @@ section[id]{scroll-margin-top:84px}
 #nb-economia span[style*="font-size: 36px"]{font-size:30px !important}
 #nb-confianca>div{gap:20px !important}
 #nb-quem div[style*="gap: 56px"]{gap:28px !important}
-#nb-quem img{max-width:220px !important;margin:0 auto}
+#nb-quem img{max-width:340px !important;width:100% !important;height:auto !important;aspect-ratio:4/5 !important;margin:0}
 .nb-faq summary{padding:18px 16px !important}
 .nb-faq .nb-ans{padding:0 16px 20px 16px !important}
 .nb-faq-side{position:static !important}
