@@ -52,9 +52,7 @@ a{color:#0F7C82}a:hover{color:#0F2747}
 .nb-head.nb-head-lt{background:rgba(255,255,255,.95)}
 .nb-m{display:none}
 .nb-logo-ic{display:none}
-.nb-par{position:relative;background:#D5DDE7}
-.nb-par::before{content:"";position:absolute;inset:1.5px;background:#FFFFFF;clip-path:polygon(0 0,calc(100% - var(--cut-m) + .9px) 0,100% calc(var(--cut-m) - .9px),100% 100%,calc(var(--cut-m) - .9px) 100%,0 calc(100% - var(--cut-m) + .9px))}
-.nb-par>*{position:relative}
+.nb-par{position:relative;background:#F4F6F9}
 .nb-faq-list{counter-reset:q}
 .nb-faq details{margin-bottom:10px;background:#F4F6F9;clip-path:polygon(0 0,calc(100% - 16px) 0,100% 16px,100% 100%,16px 100%,0 calc(100% - 16px));transition:background .2s}
 .nb-faq details[open]{background:#E2F1F2}
