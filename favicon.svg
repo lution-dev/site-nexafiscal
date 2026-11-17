@@ -1,4 +1,4 @@
-<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="122 150 132 164">
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="104 148 168 168">
   <defs>
     <linearGradient id="g44" x1="144.35" y1="1001.82" x2="144.35" y2="851.4" gradientTransform="translate(0 -696)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0f9182"></stop>
@@ -11,7 +11,8 @@
     </linearGradient>
     <linearGradient id="g32-2" x1="213.26" y1="923.46" x2="213.26" y2="1004.35" xlink:href="#g32"></linearGradient>
   </defs>
-  <g>
+  <circle cx="188" cy="232" r="84" fill="#FFFFFF"></circle>
+  <g transform="translate(188 232) scale(.72) translate(-188 -232)">
     <polygon fill="url(#g44)" points="149.97 179.11 161.45 191.55 161.47 276.93 141.55 293.66 127.23 305.82 127.24 155.4 131.36 159.54 138.55 167.05 145.21 174.08 149.97 179.11"></polygon>
     <polygon fill="url(#g44-2)" points="192.65 224.72 182.27 214.04 176.79 208.2 170.97 202.04 164.6 195.37 145.17 174.47 139.48 168.47 132.98 161.62 127.23 155.4 160.4 155.42 165.86 160.96 178 173.46 189.3 185.1 201.28 197.39 204.91 201.15 204.91 237.18 192.65 224.72"></polygon>
     <path fill="url(#g32)" d="M233.51,300.56l-6.95-7.28-8.4-8.7-3.45-3.84.05-92.6,36.83-32.74v142.56c-.77,1.29-1.8,1.91-2.84,2.77l-7.98,7.62-7.27-7.79h0Z"></path>
