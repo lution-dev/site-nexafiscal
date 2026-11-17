@@ -156,8 +156,8 @@ section[id]{scroll-margin-top:84px}
 .nb-cta-box{padding:48px 16px !important}
 .nb-faq summary{font-size:16px}
 .nb-hero-in{gap:36px !important}
-.nb-hero-txt{align-items:center !important;text-align:center !important}
-.nb-hero-btns,.nb-chips{justify-content:center !important}
+.nb-hero-txt{align-items:flex-start !important;text-align:left !important}
+.nb-hero-btns,.nb-chips{justify-content:flex-start !important}
 .nb-hero-wrap{flex:1 1 100% !important;max-width:none !important}
 .nb-hero-val{font-size:30px !important}
 .nb-cdesc{min-height:0 !important}
