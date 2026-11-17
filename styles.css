@@ -203,6 +203,7 @@ section[id]{scroll-margin-top:84px}
 .nb-gseg img[alt="Porto"]{height:26px !important}
 .nb-cta-box a.nb-btn{width:100%}
 .nb-foot>div{padding:28px 20px 20px !important}
+.nb-foot ul+a{padding-left:0;border-left:0}
 .pv-h1{font-size:30px !important}
 .pv-wm{height:280px;right:-80px;top:110px}
 .pv-wrap{padding:40px 20px 56px !important}
