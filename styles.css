@@ -53,6 +53,9 @@ a{color:#0F7C82}a:hover{color:#0F2747}
 .nb-m{display:none}
 .nb-logo-ic{display:none}
 .nb-par{position:relative;background:#F4F6F9}
+.nb-par .nb-btn-line{position:relative;isolation:isolate;border:0;background:#B5C0CE;transition:background .2s}
+.nb-par .nb-btn-line::before{content:"";position:absolute;inset:1.5px;z-index:-1;background:#F4F6F9;clip-path:polygon(0 0,calc(100% - var(--cut-s) + .9px) 0,100% calc(var(--cut-s) - .9px),100% 100%,calc(var(--cut-s) - .9px) 100%,0 calc(100% - var(--cut-s) + .9px))}
+.nb-par .nb-btn-line:hover{background:#0F2747}
 .nb-faq-list{counter-reset:q}
 .nb-faq details{margin-bottom:10px;background:#F4F6F9;clip-path:polygon(0 0,calc(100% - 16px) 0,100% 16px,100% 100%,16px 100%,0 calc(100% - 16px));transition:background .2s}
 .nb-faq details[open]{background:#E2F1F2}
