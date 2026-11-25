@@ -58,3 +58,35 @@ Atuamos só em teses com jurisprudência consolidada, como a exclusão do ICMS d
 
 ### O que acontece com os dados da minha empresa?
 Usamos as informações só para o diagnóstico e para o serviço, e não vendemos dados. O tratamento segue a LGPD. Os detalhes estão na Política de Privacidade.
+
+## Dúvidas frequentes sobre os serviços (https://nexafiscal.com/servicos#nb-faq)
+
+### O que é a cessão de direitos creditórios?
+É a transferência legal, registrada por petição em juízo no STJ, de créditos originados em processos judiciais transitados em julgado. Os créditos correspondem a indenização consolidada e irreversível por prejuízos causados pela União Federal.
+
+### Cessão de direitos creditórios é a mesma coisa que precatório?
+Não. Os créditos da cessão não são precatórios federais. São créditos de uma ação judicial já transitada em julgado, que a empresa adquire e passa a ser credora habilitada, junto com a CIB, no Polo Ativo Credor.
+
+### Qual a diferença entre a cessão e a recuperação de créditos tributários?
+A recuperação administrativa busca o imposto pago a mais nos últimos 60 meses. A cessão não recupera crédito tributário do passado: é cessão de direitos creditórios daqui para frente, usada para pagar tributos a vencer ou em aberto. A empresa pode contratar as duas com a Nexa Fiscal.
+
+### Quem pode contratar a cessão?
+Empresas de qualquer setor ou regime tributário, exceto Simples Nacional. O diagnóstico prévio confirma o enquadramento.
+
+### Quais tributos e dívidas podem ser pagos com a cessão?
+INSS patronal, PIS e COFINS, IRPJ, CSLL, IPI e outras contribuições federais, vincendos ou vencidos, além de dívidas e passivos fiscais na Receita Federal e na PGFN. Também vale para dívidas de ICMS de Minas Gerais, mediante consulta de condições.
+
+### Preciso investir ou pagar honorários antes?
+Não há investimento inicial nem honorários iniciais. O pagamento ao parceiro, com deságio, só acontece depois que a Receita Federal confirma a guia paga ou zerada. As condições dependem do diagnóstico prévio e do enquadramento da empresa.
+
+### A compensação é permitida por lei?
+A operação é estruturada como compensação de créditos próprios da empresa, e não de créditos de terceiros, que é vedada em lei. A base legal inclui o art. 100 da Constituição Federal, o art. 74 da Lei 9.430/1996, os arts. 156, I, e 170 do Código Tributário Nacional e a Portaria PGFN 10.826/2022.
+
+### Quais são as garantias da operação?
+A operação tem garantia contratual jurídica por 5 anos, defesa administrativa e judicial integral pelo parceiro, seguro Tokio Marine de Responsabilidade Civil de até R$ 15 milhões por compensação e escritura pública registrada em cartório, emitida anualmente. Ao todo são nove camadas de segurança, descritas nesta página.
+
+### Quanto tempo leva?
+A compensação das guias é feita nos sistemas da Receita Federal e conferida no e-CAC, com guia paga ou zerada em cerca de 3 dias. Para dívidas na Receita Federal e na PGFN, a quitação ou o reconhecimento acontece entre 30 e 60 dias, com emissão automática da CND.
+
+### Quanto custa o diagnóstico da recuperação de créditos tributários?
+Nada. O diagnóstico é gratuito, sem compromisso, e a execução só acontece depois da sua aprovação. Os honorários são estritamente sobre o êxito: a Nexa só cobra se houver crédito.
