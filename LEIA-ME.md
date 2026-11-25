@@ -4,6 +4,7 @@ Site estático (HTML + CSS + JS puro), sem build. Domínio: **nexafiscal.com**. 
 
 ## Estrutura
 - `index.html` — home
+- `servicos.html` — Serviços (rota `/servicos`)
 - `privacidade.html` — Política de Privacidade (rota `/privacidade`)
 - `styles.css`, `app.js` — estilos e animações
 - `img/` — logos, foto, logos de clientes e parceiros
