@@ -5,7 +5,7 @@
 Site: https://nexafiscal.com/ — Idioma: português (Brasil) — Atuação: todo o Brasil.
 
 ## Fatos principais
-- Serviço: recuperação de créditos tributários (PIS, COFINS, INSS sobre a folha, IRPJ e CSLL) por compensação administrativa.
+- Dois serviços: (1) cessão de direitos creditórios, a solução principal; (2) recuperação administrativa de créditos tributários (PIS, COFINS, INSS sobre a folha, IRPJ e CSLL) por compensação, sem processo judicial.
 - Método: diagnóstico de 60 meses de recolhimentos, retificação das competências e compensação nas guias mensais, depois do fechamento do contador do cliente. O cliente recebe todos os recibos e protocolos.
 - Custo: diagnóstico gratuito; sem custo inicial; honorários só no êxito (apenas se houver crédito).
 - Segurança jurídica ("Zero glosa"): operação com seguro Tokio Marine e Porto Seguro, somente teses pacificadas, sem contestação.
@@ -19,10 +19,11 @@ Site: https://nexafiscal.com/ — Idioma: português (Brasil) — Atuação: tod
 - PIS e COFINS não cumulativo: créditos sobre insumos e despesas da operação, como energia, aluguéis e fretes (empresas do Lucro Real).
 - ICMS na base do PIS e COFINS (Tese do Século): decisão definitiva do STF, vale para o ICMS próprio e para o ICMS-ST.
 - Subvenção de ICMS: exclusão de incentivos fiscais estaduais da base do IRPJ e da CSLL.
-- Direitos creditórios ("Pague 70%. Abata 100%."): créditos já reconhecidos pela Justiça, comprados com desconto e usados pelo valor integral para abater tributos federais.
+- Cessão de direitos creditórios (https://nexafiscal.com/servicos#cessao): pagamento de tributos e dívidas federais (INSS patronal, PIS, COFINS, IRPJ, CSLL, IPI, e dívidas na Receita Federal e na PGFN) com créditos judiciais já transitados em julgado, com deságio e sem investimento inicial. É cessão daqui para frente, não é recuperação de crédito tributário do passado e não são precatórios federais. Pode ser cedida a empresas de qualquer setor ou regime tributário, exceto Simples Nacional. A compensação é feita nos sistemas da Receita Federal (PER/DCOMP e DCTFWeb), conferida no e-CAC, e o pagamento ao parceiro só ocorre depois da confirmação da Receita. Parceiro detentor do ativo: Grupo Kraft. Valores de economia são potenciais e dependem de diagnóstico prévio, enquadramento e condições aplicáveis.
 
 ## Páginas
 - [Página inicial](https://nexafiscal.com/): serviço, como funciona, garantias, dúvidas frequentes e contato.
+- [Serviços](https://nexafiscal.com/servicos): cessão de direitos creditórios e recuperação administrativa de créditos tributários, com base legal, segurança da operação e passo a passo.
 - [Política de Privacidade](https://nexafiscal.com/privacidade): tratamento de dados conforme a LGPD.
 - [Texto completo para IA](https://nexafiscal.com/llms-full.txt)
 
