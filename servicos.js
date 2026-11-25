@@ -61,7 +61,7 @@
     });
 
     var tt = e - TOT0, total;
-    if (tt < 0) total = { display: zero(tFinal), cls: 'nb-val nb-tot-hidden', blur: 8, op: 0.35 };
+    if (tt < 0) total = { display: zero(tFinal), cls: 'nb-val nb-tot-hidden', blur: 8, op: 1 };
     else if (tt < TR) { var tq = clamp01(tt / TR); total = { display: decode(tFinal, tq), cls: 'nb-val nb-tot-scr', blur: Math.round(8 * (1 - clamp01(tq * 2)) * 10) / 10, op: Math.round((0.35 + 0.65 * clamp01(tq * 2)) * 100) / 100 }; }
     else total = { display: tFinal, cls: 'nb-val nb-tot-shown', blur: 0, op: 1 };
     tVal.className = total.cls + ' nb-total-val'; tVal.textContent = total.display;

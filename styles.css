@@ -103,7 +103,7 @@ section[id]{scroll-margin-top:84px}
 .nb-hidden{filter:blur(8px);opacity:.5;color:#FFFFFF}
 .nb-scr{color:#6FD3A6}
 .nb-shown{color:#FFFFFF}
-.nb-tot-hidden{filter:blur(9px);opacity:.45;color:#0F2747}
+.nb-tot-hidden{filter:blur(9px);color:#0F2747}
 .nb-tot-scr{color:#0F7C82}
 .nb-tot-shown{color:#1C6446}
 .nb-card{position:relative;background:#2C415D;transition:background .5s}
