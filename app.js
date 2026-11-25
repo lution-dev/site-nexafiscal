@@ -114,3 +114,15 @@
     } catch (err) { set({ sStart: Date.now() }); }
   }
 })();
+
+/* Logo do topo: na home, volta ao início sem recarregar nem pôr hash na URL */
+(function () {
+  var a = document.querySelector('a.nb-home');
+  if (!a) return;
+  a.addEventListener('click', function (e) {
+    if (location.pathname !== '/' || e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
+    e.preventDefault();
+    if (location.hash) history.replaceState(null, '', '/');
+    window.scrollTo(0, 0);
+  });
+})();
