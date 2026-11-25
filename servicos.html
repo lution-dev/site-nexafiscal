@@ -45,10 +45,10 @@
 <div class="cs-in" style="display: flex; flex-direction: column; gap: 40px;">
 <div style="display: flex; flex-direction: column; gap: 16px; max-width: 780px;">
 <span class="cs-eye">Serviços</span>
-<h1 class="cs-h1" style="font-size: 48px; line-height: 1.1; font-weight: 700; letter-spacing: -.6px;">Os serviços da Nexa Fiscal</h1>
-<p class="cs-lead" style="font-size: 19px;">Tudo começa pelo diagnóstico gratuito. A partir dele, a Nexa indica o caminho mais vantajoso para a sua empresa.</p>
+<h1 class="cs-h1 nb-rise" style="font-size: 48px; line-height: 1.1; font-weight: 700; letter-spacing: -.6px;">Os serviços da Nexa Fiscal</h1>
+<p class="cs-lead nb-rise2" style="font-size: 19px;">Tudo começa pelo diagnóstico gratuito. A partir dele, a Nexa indica o caminho mais vantajoso para a sua empresa.</p>
 </div>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 16px;">
+<div class="nb-rise3" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 16px;">
 <a class="cs-card cs-card-mint cs-cut-m cs-svc" href="#cessao" style="padding: 32px;"><span class="cs-num">01 · SOLUÇÃO PRINCIPAL</span><h2>Cessão de direitos creditórios</h2><p>Pague tributos e dívidas federais com créditos judiciais já definitivos, com deságio e sem investimento inicial.</p><span class="cs-svc-go">Ver detalhes <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0F7C82" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M6 13l6 6 6-6"></path></svg></span></a>
 <a class="cs-card cs-card-steel cs-cut-m cs-svc" href="#recuperacao" style="padding: 32px;"><span class="cs-num">02</span><h2>Recuperação administrativa de créditos tributários</h2><p>Mapeamos 60 meses de recolhimentos e recuperamos o crédito direto com a Receita, sem processo judicial.</p><span class="cs-svc-go">Ver detalhes <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0F7C82" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M6 13l6 6 6-6"></path></svg></span></a>
 </div>
@@ -295,7 +295,7 @@
 <h2 class="nb-h2" style="font-size: 42px; line-height: 1.15; font-weight: 700;">Onde o crédito costuma se esconder</h2>
 <p style="font-size: 17px; color: #C3CEDD; max-width: 600px;">O imposto pago a mais costuma passar despercebido. Veja o diagnóstico trazer esses valores à tona.</p>
 </div>
-<div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap;"><span role="status" aria-live="polite" style="display: inline-flex; align-items: center; gap: 8px; font-size: 14px; color: #C3CEDD"><span class="nb-dot" aria-hidden="true"></span><span >Diagnóstico concluído</span></span></div>
+<div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap;"><span role="status" aria-live="polite" style="display: inline-flex; align-items: center; gap: 8px; font-size: 14px; color: #C3CEDD"><span id="c-dot" class="nb-dot" aria-hidden="true"></span><span id="c-status">Diagnóstico concluído</span></span><button id="c-skip" type="button" class="nb-btn nb-btn-ghost" hidden>Ver resultado agora</button></div>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px;">
@@ -358,7 +358,7 @@
 <span style="font-family: Montserrat, system-ui, sans-serif; font-weight: 700; font-size: 20px;">Total identificado no diagnóstico</span>
 <span style="font-size: 14px; color: #4A5B73;">Valor a recuperar via compensação administrativa</span>
 </div>
-<span class="nb-val nb-tot-shown nb-total-val" aria-hidden="true" style="font-size: 46px;">R$ 5.222.030</span><span class="nb-sr">R$ 5.222.030</span>
+<span id="t-val" class="nb-val nb-tot-shown nb-total-val" aria-hidden="true" style="font-size: 46px;">R$ 5.222.030</span><span class="nb-sr">R$ 5.222.030</span>
 </div>
 <p style="font-size: 13px; color: #9FB0C6;">Simulação ilustrativa de uma empresa do Lucro Real. Não representa o resultado de um cliente. Os valores reais dependem do diagnóstico.</p>
 </div>
@@ -401,6 +401,7 @@
 </div>
 </footer>
 
+<script src="/servicos.js" defer></script>
 <script>
 (function(){var h=document.getElementById('nb-head');if(!h)return;var raf=0;
 function c(){var r=h.getBoundingClientRect(),y=(r.top+r.bottom)/2;var d=[].slice.call(document.querySelectorAll('.cs-dark,.cs-ctab,.cs-foot')).some(function(e){var b=e.getBoundingClientRect();return b.top<=y&&b.bottom>=y});h.classList.toggle('nb-head-lt',d)}
