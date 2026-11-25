@@ -6,7 +6,9 @@ Projeto: site estático da Nexa Fiscal (HTML + CSS + JS puro, sem build), public
 - **Sempre enviar direto para a `main`.** Não criar branches de trabalho nem Pull Requests.
 - Motivo: só uma pessoa trabalha neste repositório, e cada push na `main` gera deploy automático na Vercel.
 - Fluxo: commit na `main` e `git push origin main`.
-- Repositório: github.com/mirianbernardo/site-nexafiscal
+- Repositório: github.com/lution-dev/site-nexafiscal
+- Hospedagem: Vercel (conta lution-dev, projeto `site-nexafiscal`); domínio nexafiscal.com, com www redirecionando para o domínio raiz.
+- Analytics: Vercel Web Analytics, via `<script defer src="/_vercel/insights/script.js">` no `<head>` de todas as páginas HTML (manter ao criar páginas novas).
 
 ## Regras do projeto
 - Sem build, sem dependências: não adicionar `package.json` nem frameworks.

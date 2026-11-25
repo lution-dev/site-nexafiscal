@@ -1,6 +1,6 @@
 # Nexa Fiscal — site
 
-Site estático (HTML + CSS + JS puro), sem build. Domínio: **nexafiscal.com**. Repositório: github.com/mirianbernardo/site-nexafiscal.
+Site estático (HTML + CSS + JS puro), sem build. Domínio: **nexafiscal.com**. Repositório: github.com/lution-dev/site-nexafiscal.
 
 ## Estrutura
 - `index.html` — home
